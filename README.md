@@ -1,4 +1,4 @@
-# 01-github-explorer
+# lis-movies-reactjs
 
 ## Table of Contents
 
